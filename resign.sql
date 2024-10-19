@@ -1,0 +1,1 @@
+-- query buat resign disini
